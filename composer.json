@@ -1,0 +1,8 @@
+{
+    "name": "kobe_and_mark/smtp",
+    "type": "project",
+    "minimum-stability": "stable",
+    "require": {
+        "phpmailer/phpmailer" : "^6.9.1"
+    }
+}
